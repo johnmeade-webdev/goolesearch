@@ -1,0 +1,29 @@
+.tab {
+	display: inline-block;
+	width: 6vw;
+	vertical-align: middle;
+	font-family: arial,sans-serif;
+	font-size: 13px;
+}
+.empty {
+	width: 58vw;
+}
+#pic {
+	height: 3.5vw;
+}
+.google{
+	text-align: center;
+	margin-top: 10vw;
+}
+.search-bar{
+	text-align: center;
+	margin-top: 1vw;
+}
+.search-space{
+	height: 2vw;
+	width: 40vw;
+}
+.buttons{
+	text-align: center;
+	margin-top: 1vw;
+}
